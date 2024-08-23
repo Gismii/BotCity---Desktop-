@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+primeiroBot/__init__.py
+primeiroBot/__main__.py
+primeiroBot/bot.py
+primeiroBot.egg-info/PKG-INFO
+primeiroBot.egg-info/SOURCES.txt
+primeiroBot.egg-info/dependency_links.txt
+primeiroBot.egg-info/requires.txt
+primeiroBot.egg-info/top_level.txt
+primeiroBot/resources/start.png
